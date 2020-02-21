@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="./img/maratonadev3.svg">
+  <img  width="600" height="200" src="./img/maratonadev3.svg">
 </p>
 
 <h1 align="center">Maratona Dev 3</h1>
